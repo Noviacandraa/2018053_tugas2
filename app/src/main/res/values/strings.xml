@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">recyleView</string>
+    <string-array name="makanan">
+        <item>burger</item>
+        <item>hotdog</item>
+        <item>nasi</item>
+        <item>spageti</item>
+        <item>sushi</item>
+        <item>tomyum</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 250.000</item>
+        <item>Rp. 255.000</item>
+        <item>Rp. 250.000</item>
+        <item>Rp. 200.000</item>
+        <item>Rp. 240.000</item>
+        <item>Rp. 270.000</item>
+    </string-array>
+</resources>
